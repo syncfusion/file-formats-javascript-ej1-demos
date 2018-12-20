@@ -20,7 +20,7 @@ Install the following items:
 * npm  [version 3.x.x+](https://blog.npmjs.org/post/85484771375/how-to-install-npm)
 * Any text editor
 
-## <a name="documentation"></a>Documentation ##
+## <a name="documentation"></a>Documentation ## 
 
 All control documentation for the Syncfusion file format Essential JS1 libraries and UI controls can be found below.  
 
@@ -31,7 +31,7 @@ All control documentation for the Syncfusion file format Essential JS1 libraries
 
 ## <a name="license"></a>License ##
 
-Syncfusion has no liability for any damage or consequence that may arise by the use or viewing of the samples. The samples are for demonstrative purposes and if you choose to use or access the samples you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, accessing or otherwise viewing the samples. By accessing, viewing, or otherwise seeing the samples you acknowledge and agree Syncfusion’s samples will not allow you to seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize or otherwise do anything with Syncfusion’s samples.
+Syncfusion has no liability for any damage or consequence that may arise by the use or viewing of the samples. The samples are for demonstrative purposes and if you choose to use or access the samples you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, accessing or otherwise viewing the samples. By accessing, viewing, or otherwise seeing the samples you acknowledge and agree Syncfusionâ€™s samples will not allow you to seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize or otherwise do anything with Syncfusionâ€™s samples.
 
 ## <a name="using-the-examples"></a>Using the examples ##
 
