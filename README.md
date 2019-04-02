@@ -7,7 +7,7 @@ This section guides to use to Syncfusion file format Essential JS 1 product samp
 * [Requirements to run the demo](#requirements-to-run-the-demo)
 * [Documentation](#documentation)
 * [License](#license)
-* [Using the examples](#using-the-examples)
+* [Using the examples](#using-the-examples) 
 * [How to Run the samples](#how-to-run-the-samples)
 * [Controls Catalog](#controls-catalog)
 * [Support and Feedback](#support-and-feedback)
