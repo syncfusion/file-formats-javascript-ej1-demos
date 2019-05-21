@@ -11,7 +11,7 @@ This section guides to use to Syncfusion file format Essential JS 1 product samp
 * [How to Run the samples](#how-to-run-the-samples)
 * [Controls Catalog](#controls-catalog)
 * [Support and Feedback](#support-and-feedback)
- 
+
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
 Install the following items:
